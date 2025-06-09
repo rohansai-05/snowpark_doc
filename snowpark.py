@@ -5,9 +5,9 @@ from snowflake.snowpark.functions import col
 
 # Session Config
 connection_parameters = {
-    "account": "MVGZFYR-NR79690",
-    "user": "ROSHAN05",
-    "password": "Rosssssssssshan05@",
+    "account": "#####",
+    "user": "###3",
+    "password": "######",
     "role": "ACCOUNTADMIN",
     "warehouse": "COMPUTE_WH",
     "database": "TEST",
